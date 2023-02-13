@@ -609,7 +609,7 @@
         loopAdditionalSlides: 10,
         grabCursor: true,
         watchSlidesProgress: true,
-        mousewheel: false,
+        mousewheel: true,
         navigation: {
           nextEl: '.cs-swiper_button_next',
           prevEl: '.cs-swiper_button_prev',
